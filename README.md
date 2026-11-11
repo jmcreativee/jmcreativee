@@ -1,7 +1,7 @@
 # ¡HOLA SOY JMCREATIVEE! - Bienvenido a mi perfil
 ![Texto alternativo del banner](banner.png)
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/&ogbl)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/jmcreativee@gmail.com)
 
 
 
