@@ -2,6 +2,7 @@
 ![Texto alternativo del banner](banner.png)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jmcreativee?vrfl=MWkxYW4zZXUyM24zbg==)
+	[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](t.me/jmcreativee)
 
 
 
