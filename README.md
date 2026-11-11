@@ -1,6 +1,7 @@
-![banner de jmcreativee]
-(banner.png)
-
+![Texto alternativo del banner](banner.png)
+<div id="header" align="center">   
+  <img src="https://giphy.com/embed/A8nAnbvYbWQiQ" width="200"/>
+</div>
 # ¡CREO, CREE, CREAMOS! 
 
 <!--
