@@ -1,8 +1,9 @@
+# ¡HOLA SOY JMCREATIVEE! - Bienvenido a mi perfil
 ![Texto alternativo del banner](banner.png)
-<div id="header" align="center">   
-  <img src="https://giphy.com/embed/A8nAnbvYbWQiQ" width="200"/>
-</div>
-# ¡CREO, CREE, CREAMOS! 
+
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)]()
+
+
 
 <!--
 **jmcreativee/jmcreativee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
